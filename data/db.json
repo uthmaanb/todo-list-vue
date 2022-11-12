@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage bannerking",
+      "details": "Lorem ipsumsvsg",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "make a site",
+      "details": "lifghbzkfm ;ajr ha",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
